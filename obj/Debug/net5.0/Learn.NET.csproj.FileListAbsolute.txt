@@ -1,0 +1,16 @@
+C:\Users\Laptop\Documents\GitHub\Learn.NET\bin\Debug\net5.0\Learn.NET.exe
+C:\Users\Laptop\Documents\GitHub\Learn.NET\bin\Debug\net5.0\Learn.NET.deps.json
+C:\Users\Laptop\Documents\GitHub\Learn.NET\bin\Debug\net5.0\Learn.NET.runtimeconfig.json
+C:\Users\Laptop\Documents\GitHub\Learn.NET\bin\Debug\net5.0\Learn.NET.runtimeconfig.dev.json
+C:\Users\Laptop\Documents\GitHub\Learn.NET\bin\Debug\net5.0\Learn.NET.dll
+C:\Users\Laptop\Documents\GitHub\Learn.NET\bin\Debug\net5.0\ref\Learn.NET.dll
+C:\Users\Laptop\Documents\GitHub\Learn.NET\bin\Debug\net5.0\Learn.NET.pdb
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.dll
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\ref\Learn.NET.dll
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.pdb
+C:\Users\Laptop\Documents\GitHub\Learn.NET\obj\Debug\net5.0\Learn.NET.genruntimeconfig.cache
